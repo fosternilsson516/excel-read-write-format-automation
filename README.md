@@ -1,1 +1,12 @@
-At Xcel Energy, my recent task involved authoring test cases which subsequently served as the foundation for our Test Scripts. This process entailed substantial data duplication across two Excel files. To streamline this, I developed a Python script that not only automated the data transfer but also formatted the content into a new Excel sheet. To enhance user experience, I incorporated interactive prompts. Further, I consolidated the entire solution into a single executable file. Now, any team member at Xcel who completes their test cases can effortlessly use this tool to automate the creation of their test scripts.
+Python Test Automation Scripting Tool
+Welcome to our Python-based tool designed to enhance and streamline your testing experience.
+
+Features:
+
+Automated Test Case Generation: Craft precise test cases to optimize script automation.
+Intelligent Column Copying: Effortlessly extracts relevant columns from your test scripts.
+Advanced Formatting: Automatically restructures and beautifies your test scripts for better clarity.
+Excel Integration: Seamlessly exports formatted test scripts into a new Excel file for easy access and sharing.
+Executable Application: Looking for a quick start? Dive right into the executable version available in the dist folder.
+
+Enjoy a smoother, faster, and more efficient testing process with our tool.
